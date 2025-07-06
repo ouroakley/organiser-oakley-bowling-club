@@ -1,5 +1,5 @@
 ---
-title: Bowling Club Open Day
+title: Open Day
 date: 2025-07-13
 poster: oakley-bowling-club.jpg
 eventDates:
@@ -9,6 +9,8 @@ venues:
   - oakley-bowling-club
 organisers:
   - oakley-bc
+aliases:
+  - /events/2025/07/bowling-club-open-day/
 ---
 Oakley Bowling Club invites you to come and try bowls at our picturesque club at our OPEN DAY.
 
