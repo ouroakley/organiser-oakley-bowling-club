@@ -9,6 +9,12 @@ venues:
   - oakley-bowling-club
 organisers:
   - oakley-bc
+params:
+  link:
+    issue: May 2026
+    pdfPages:
+      - 36
+      - 37
 ---
 
 Oakley Bowling Club invites you to come and try bowls at our picturesque club at our OPEN DAY.
